@@ -3,8 +3,8 @@
 <div align="center" style="display: inline_block">
   
   <a href="https://github.com/phelixgabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phelixgabriel&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelixgabriel&layout=compact&langs_count=7&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phelixgabriel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelixgabriel&layout=compact&langs_count=7&theme=react"/>
     </div>
 <div style="display: inline_block"><br>
   
@@ -20,6 +20,6 @@
   <a href="https://www.linkedin.com/in/gabriel-f%C3%A9lix-195117122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
- ![Snake animation](https://github.com/Manuela-Gadelho/Manuela-Gadelho/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Gabriel/PhelixGabriel/blob/output/github-contribution-grid-snake.svg)
  
 </div>

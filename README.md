@@ -1,4 +1,4 @@
 # Gabriel
 
 
-![Snake animation](https://github.com/GaberFelix/GaberFelix/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Manuela-Gadelho/Manuela-Gadelho/blob/output/github-contribution-grid-snake.svg)

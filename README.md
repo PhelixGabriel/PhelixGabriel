@@ -10,7 +10,7 @@
  <img align"center" alt="Phelix-Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="100"/>
  <img align"center" alt="Phelix-Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width="50" height="100"/>
  <img align"center" alt="Phelix-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="50" height="100"/>
-  <img align"center" alt="Phelix-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg"  width="50" height="100"/>
+  <img align"center" alt="Phelix-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="50" height="100"/>
    
    <br> 
    <a href = "mailto:gabrielts_96@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>

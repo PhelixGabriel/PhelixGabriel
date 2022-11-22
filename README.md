@@ -9,7 +9,7 @@
   <div style="display: inline_block">
  <img align"center" alt="Phelix-Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="100"/>
  <img align"center" alt="Phelix-Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width="50" height="100"/>
- <img align"center" alt="Phelix-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg"  width="50" height="100"/>
+ <img align"center" alt="Phelix-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="50" height="100"/>
   <img align"center" alt="Phelix-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg"  width="50" height="100"/>
    
    <br> 

@@ -9,9 +9,11 @@
   <div style="display: inline_block">
  <img align"center" alt="Phelix-Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="100"/>
  <img align"center" alt="Phelix-Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width="50" height="100"/>
+ <img align"center" alt="Phelix-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg"  width="50" height="100"/>
+  <img align"center" alt="Phelix-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg"  width="50" height="100"/>
    
    <br> 
-   <a href = "mailto:phelix@phelixgabriel.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+   <a href = "mailto:gabrielts_96@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/gabriel-f%C3%A9lix-195117122/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.twitch.tv/phelixgabriel" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/phelixgabriel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	

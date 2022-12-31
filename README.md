@@ -1,6 +1,6 @@
 # Bikcraft
 
-Bikcraft is an online electric bicycles store. This project was made following the teacher's instructions during the HTML & CSS course for beginners at Origamid.
+Bikcraft is an online electric bicycles store. This project was made following the teacher's instructions during the HTML & CSS for beginners course at Origamid.
 
 ## Technologies
 
@@ -15,4 +15,12 @@ On this project the following technologies were used:
 
  
 </div>
+## The most expressive lessons that I've learned:
 
+```
+ CSS Grid Layout
+ Flexbox
+ Git commands
+ Responsiviness
+ 
+```

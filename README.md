@@ -4,11 +4,12 @@ Bikcraft is an online electric bicycles store. This project was made following t
 
 ## The most expressive lessons that I've learned:
 
-```HTML
+```
  CSS Grid Layout
  Flexbox
  Git commands
  Responsiviness
+ DOM Manipulation with JavaScript
 ```
 
 ## Technologies

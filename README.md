@@ -1,6 +1,6 @@
 # Gabriel
 ##### Hi, i'm Gabriel
-##### I'm interested in Front End Development
+##### I'm currently working for J.P MorganChase as a Trading Support
 ##### I'm currently studying Front End and Design UI & Design UX through Origamid.com Courses
 ##### You can reach me through my e-mail or phone number: gabrielts_96@hotmail.com / +55 (11) 97151-9726
 
